@@ -1,7 +1,7 @@
 # java404
-- 👼 My name is idos 
-- 🍼 I am 27 years old 
-- 🔭 I am not or maybe a programmer
+-👼 Меня зовут Идос
+-🍼 Мне 27 лет
+-🔭 Я не программист, или, возможно, я им являюсь
 
 <h1 align="center"> Nyambung dengan ku
 <p align="center">
